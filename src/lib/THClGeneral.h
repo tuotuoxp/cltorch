@@ -46,6 +46,8 @@
 
 #ifdef __GNUC__
 #define DEPRECATED_POST __attribute__((deprecated))
+#else
+#define DEPRECATED_POST
 #endif
 
 #ifdef __cplusplus
