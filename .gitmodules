@@ -4,3 +4,6 @@
 [submodule "src/boost-headers-lite"]
 	path = src/boost-headers-lite
 	url = https://github.com/hughperkins/boost-headers-lite
+[submodule "src/EasyCL"]
+	path = src/EasyCL
+	url = https://github.com/tuotuoxp/EasyCL.git
